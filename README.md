@@ -7,4 +7,4 @@
 3. Установить зависимости, если ещё не установлены (PyQT5): ```pip install -r requirements.txt```
 4. Запустить программу: ```py app.py```
 
-#### Также можно использовать любую IDE или редактор кода (PyCharm, Visual Studio Code, Visual Studio Community 2019), предварительно установив зависимости.
+#### Также можно использовать любую IDE или редактор кода _(PyCharm, Visual Studio Code, Visual Studio Community 2019)_, предварительно установив зависимости.
